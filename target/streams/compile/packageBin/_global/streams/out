@@ -1,0 +1,45 @@
+[debug] Packaging C:\Users\diego\IdeaProjects\DPI_Recommender\target\scala-2.11\dpi_recommender_2.11-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	telefonica
+[debug] 	  C:\Users\diego\IdeaProjects\DPI_Recommender\target\scala-2.11\classes\telefonica
+[debug] 	telefonica\recommender
+[debug] 	  C:\Users\diego\IdeaProjects\DPI_Recommender\target\scala-2.11\classes\telefonica\recommender
+[debug] 	telefonica\recommender\DPI_Recommender$$anonfun$1.class
+[debug] 	  C:\Users\diego\IdeaProjects\DPI_Recommender\target\scala-2.11\classes\telefonica\recommender\DPI_Recommender$$anonfun$1.class
+[debug] 	telefonica\recommender\DPI_Recommender$$anonfun$10.class
+[debug] 	  C:\Users\diego\IdeaProjects\DPI_Recommender\target\scala-2.11\classes\telefonica\recommender\DPI_Recommender$$anonfun$10.class
+[debug] 	telefonica\recommender\DPI_Recommender$$anonfun$2.class
+[debug] 	  C:\Users\diego\IdeaProjects\DPI_Recommender\target\scala-2.11\classes\telefonica\recommender\DPI_Recommender$$anonfun$2.class
+[debug] 	telefonica\recommender\DPI_Recommender$$anonfun$3.class
+[debug] 	  C:\Users\diego\IdeaProjects\DPI_Recommender\target\scala-2.11\classes\telefonica\recommender\DPI_Recommender$$anonfun$3.class
+[debug] 	telefonica\recommender\DPI_Recommender$$anonfun$4.class
+[debug] 	  C:\Users\diego\IdeaProjects\DPI_Recommender\target\scala-2.11\classes\telefonica\recommender\DPI_Recommender$$anonfun$4.class
+[debug] 	telefonica\recommender\DPI_Recommender$$anonfun$5.class
+[debug] 	  C:\Users\diego\IdeaProjects\DPI_Recommender\target\scala-2.11\classes\telefonica\recommender\DPI_Recommender$$anonfun$5.class
+[debug] 	telefonica\recommender\DPI_Recommender$$anonfun$6.class
+[debug] 	  C:\Users\diego\IdeaProjects\DPI_Recommender\target\scala-2.11\classes\telefonica\recommender\DPI_Recommender$$anonfun$6.class
+[debug] 	telefonica\recommender\DPI_Recommender$$anonfun$7.class
+[debug] 	  C:\Users\diego\IdeaProjects\DPI_Recommender\target\scala-2.11\classes\telefonica\recommender\DPI_Recommender$$anonfun$7.class
+[debug] 	telefonica\recommender\DPI_Recommender$$anonfun$8.class
+[debug] 	  C:\Users\diego\IdeaProjects\DPI_Recommender\target\scala-2.11\classes\telefonica\recommender\DPI_Recommender$$anonfun$8.class
+[debug] 	telefonica\recommender\DPI_Recommender$$anonfun$9.class
+[debug] 	  C:\Users\diego\IdeaProjects\DPI_Recommender\target\scala-2.11\classes\telefonica\recommender\DPI_Recommender$$anonfun$9.class
+[debug] 	telefonica\recommender\DPI_Recommender$$typecreator2$1.class
+[debug] 	  C:\Users\diego\IdeaProjects\DPI_Recommender\target\scala-2.11\classes\telefonica\recommender\DPI_Recommender$$typecreator2$1.class
+[debug] 	telefonica\recommender\DPI_Recommender$$typecreator4$1.class
+[debug] 	  C:\Users\diego\IdeaProjects\DPI_Recommender\target\scala-2.11\classes\telefonica\recommender\DPI_Recommender$$typecreator4$1.class
+[debug] 	telefonica\recommender\DPI_Recommender$$typecreator6$1.class
+[debug] 	  C:\Users\diego\IdeaProjects\DPI_Recommender\target\scala-2.11\classes\telefonica\recommender\DPI_Recommender$$typecreator6$1.class
+[debug] 	telefonica\recommender\DPI_Recommender$.class
+[debug] 	  C:\Users\diego\IdeaProjects\DPI_Recommender\target\scala-2.11\classes\telefonica\recommender\DPI_Recommender$.class
+[debug] 	telefonica\recommender\DPI_Recommender.class
+[debug] 	  C:\Users\diego\IdeaProjects\DPI_Recommender\target\scala-2.11\classes\telefonica\recommender\DPI_Recommender.class
+[debug] 	telefonica\recommender\RowHeaderHDR$.class
+[debug] 	  C:\Users\diego\IdeaProjects\DPI_Recommender\target\scala-2.11\classes\telefonica\recommender\RowHeaderHDR$.class
+[debug] 	telefonica\recommender\RowHeaderHDR.class
+[debug] 	  C:\Users\diego\IdeaProjects\DPI_Recommender\target\scala-2.11\classes\telefonica\recommender\RowHeaderHDR.class
+[debug] 	telefonica\recommender\RowStores$.class
+[debug] 	  C:\Users\diego\IdeaProjects\DPI_Recommender\target\scala-2.11\classes\telefonica\recommender\RowStores$.class
+[debug] 	telefonica\recommender\RowStores.class
+[debug] 	  C:\Users\diego\IdeaProjects\DPI_Recommender\target\scala-2.11\classes\telefonica\recommender\RowStores.class
+[debug] Done packaging.
